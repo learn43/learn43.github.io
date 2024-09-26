@@ -49,7 +49,7 @@ function gotopage(){
   update();
 }
 function LoadBook(){
-  bookN=prompt("Input Book Number (Can be found by clicking i)")-1;
+  bookN=prompt("Input Book Number (Can be found by clicking on 'BookNumbers'")-1;
   x=1
   update();
 }
